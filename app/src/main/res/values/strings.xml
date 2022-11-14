@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="tv_example">10 + 5 = ?</string>
+    <string name="bt_answer">Answer</string>
+    <string name="tv_wrong_answer">Wrong!</string>
+    <string name="tv_right_answer">Right!</string>
+    <string name="et_answer_hint">Input right answer:</string>
 </resources>
