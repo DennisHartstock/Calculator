@@ -4,5 +4,5 @@
     <string name="bt_answer">Answer</string>
     <string name="tv_wrong_answer">Wrong!</string>
     <string name="tv_right_answer">Right!</string>
-    <string name="et_answer_hint">Input right answer:</string>
+    <string name="et_answer_hint">Input right answer</string>
 </resources>
